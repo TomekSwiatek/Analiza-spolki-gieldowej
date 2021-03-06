@@ -1,0 +1,4 @@
+#Pliki z danymi
+Eurotel.xlsx
+Livechat.xlsx
+Livechat - Copy.xlsx
